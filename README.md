@@ -1,4 +1,4 @@
-# Steam on Selkies NVIDIA GLX Desktop
+# Steam on Selkies NVIDIA GLX Desktop Container
 
 This repository provides a container image that extends the [Selkies NVIDIA GLX Desktop](https://github.com/selkies-project) environment with full **Steam client integration**, while maintaining compatibility with modern NVIDIA drivers and accelerated OpenGL rendering pipelines.
 
